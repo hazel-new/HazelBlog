@@ -10,7 +10,7 @@ p {
     margin-left: 20px;
     }
 body {
-    background-image:url('image/deer.jpg');
+    background-image:url('../image/deer.jpg');
 }
 
 a:link {
