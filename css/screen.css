@@ -1,0 +1,36 @@
+/* elements */
+h1 {
+    color: whitesmoke;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    }
+p {
+    color: #FF8C00;
+    font-family: "Microsoft YaHei";
+    margin-left: 20px;
+    }
+body {
+    background-image:url('image/deer.jpg');
+}
+
+a:link {
+  color: #336699;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #660000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #336699;
+}
+
+dl dt {
+  font-weight: bold;
+}
+
+dd {
+  margin: 0 0 1.5rem 0;
+}
