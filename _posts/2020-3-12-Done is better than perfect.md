@@ -1,4 +1,3 @@
-# Done is better than perfect!
 
 为什么会开始想好好搭建博客？
 
