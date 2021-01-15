@@ -8,18 +8,18 @@
 # 环境准备
 
 1. Github网页端：
-    * 申请好GitHub账号，基本用户配置
-    * 基本repo配置
-2.  本地环境：
-    * 本地 git 环境
-    * git clone 想要的github上repo 【https/ssh模式要想好】
-    * 安装Ruby & gem 【新版本ruby自动安装gem】
-    * 利用gem 安装Jekyll
-    * 下载喜欢的Jekyll blog模板 
-    * 模板所在文件夹下，cmd命令行运行jekyll server
-    * 选择自己习惯的编辑器/浏览器，主要文件格式是markdown跟html
-    * 改模板对应文件，生成自己喜欢的模式，利用Jekyll 本地预览
-    * git push到GitHub，网页端浏览
+   * 申请好GitHub账号，基本用户配置
+   * 基本repo配置
+2. 本地环境：
+   * 本地 git 环境
+   * git clone 想要的github上repo 【https/ssh模式要想好】
+   * 安装Ruby & gem 【新版本ruby自动安装gem】
+   * 利用gem 安装Jekyll
+   * 下载喜欢的Jekyll blog模板 
+   * 模板所在文件夹下，cmd命令行运行jekyll server
+   * 选择自己习惯的编辑器/浏览器，主要文件格式是markdown跟html
+   * 改模板对应文件，生成自己喜欢的模式，利用Jekyll 本地预览
+   * git push到GitHub，网页端浏览
     
 # 问题解决小结
 
