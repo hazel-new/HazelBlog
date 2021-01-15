@@ -10,4 +10,4 @@
 
 ![book]({{ site.url }}/images/book1.png)
 
-![map1]({{ site.url }}/images/Northern/road2.jpg)
+![way]({{ site.url }}/images/Northern/way.JPG)
