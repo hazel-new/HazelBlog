@@ -1,11 +1,11 @@
-## 需要的基础背景知识
+# 需要的基础背景知识
 
 1. GitHub基本了解
 2. git基础知识
 3. markdown/html/css等web开发基础知识
 4. Jekyll基础知识
 
-## 环境准备
+# 环境准备
 
 1. Github网页端：
     * 申请好GitHub账号，基本用户配置
@@ -21,7 +21,7 @@
     * 改模板对应文件，生成自己喜欢的模式，利用Jekyll 本地预览
     * git push到GitHub，网页端浏览
     
-## 问题解决小结
+# 问题解决小结
 
 1. https模式clone安全一些，但会导致每次push都要输入用户名密码，ssh模式方便一些。
     * 根据GitHub官方文档，将远程 URL 从 HTTPS 切换到 SSH
