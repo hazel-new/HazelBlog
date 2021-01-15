@@ -1,10 +1,10 @@
 ## 需要的基础背景知识
 
-1. GitHub基本了解
-2. git基础知识
-3. markdown/html/css等web开发基础知识
-4. Jekyll基础知识
-5. debug的能力
+- GitHub基本了解
+- git基础知识
+- markdown/html/css等web开发基础知识
+- Jekyll基础知识
+- debug的能力
 
 ## 环境准备
 
@@ -34,6 +34,8 @@
 - md文件里面图片不显示?
     * 网站blog要写成绝对路径，不过相对路径在pycharm里可以预览
     * "\!\[book\]\(\{{ site.url }}/路径/图片文件)" ，这种写法需要把_config.yml里面的url参数提前定义
+- md显示有序列表格式问题？
+    * 暂时解决方案是写成无序列表
 
 
 
