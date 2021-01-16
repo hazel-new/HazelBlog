@@ -12,4 +12,4 @@ github_username:  ...
 markdown: kramdown
 
 # Add comments
-intensedebate_comments: "e027759a818378284f78bb48ff541503"
+intensedebate_comments: true
