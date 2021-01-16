@@ -10,3 +10,6 @@ github_username:  ...
 
 # Build settings
 markdown: kramdown
+
+# Add comments
+intensedebate_comments: true
