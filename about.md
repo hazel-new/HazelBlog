@@ -7,7 +7,7 @@ permalink: /about/
 
 如果想要联系我~~ ^_^
 
-邮箱： hazel97@163.com
+邮箱： hazel97@163.com （偶尔check ^_^!!）
 
 微信：
 
