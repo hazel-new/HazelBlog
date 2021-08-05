@@ -6,8 +6,8 @@
 *  “你为什么那么努力？”
     - “因为我喜欢的东西都很贵，我想去的地方都很远，我爱的人超完美”
 
-![book2]({{ site.url }}/images/book2.png)
+![book2]({{ site.url }}/images/book2.jpg)
 
-![book]({{ site.url }}/images/book1.png)
+![book]({{ site.url }}/images/book1.jpg)
 
-![way]({{ site.url }}/images/Northern/way.JPG)
+![way]({{ site.url }}/images/way.JPG)
