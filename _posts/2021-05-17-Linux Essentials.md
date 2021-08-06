@@ -1,4 +1,4 @@
-![book]({{ site.url }}/images/Linux/linux.jpg)
+![book]({{ site.url }}/images/Linux/28-2.jpg)
 
 ## Computer and Program
 
@@ -137,7 +137,8 @@ Microsoft ships Windows 3.0
 1991: Linus Torvalds releases the Linux kernel
 
 ![book]({{ site.url }}/images/Linux/28.jpg)
-![book]({{ site.url }}/images/Linux/linux.jpg)
+![book]({{ site.url }}/images/Linux/28-2.jpg)
+![book]({{ site.url }}/images/Linux/28-1.jpg)
 
 1993: Apple ships the first handheld computer: Newton
 
