@@ -187,7 +187,7 @@ Apple Inc.
 2008: Android
 
 ![book]({{ site.url }}/images/Linux/38.jpg)
-![book]({{ site.url }}/images/Linux/38-1.jpg)
+![book]({{ site.url }}/images/Linux/38-1.JPG)
 
 2012 - 2013: Raspberry Pi and Mini PC
 
@@ -206,4 +206,4 @@ Apple Inc.
  
 2021：Where are we now? 
 
-![book]({{ site.url }}/images/Linux/41.jpg)
+![book]({{ site.url }}/images/Linux/41.JPG)
