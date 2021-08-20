@@ -1,4 +1,4 @@
 ### Clean Theme
 
-![Alt text](screen.png)
+![Alt text](screen.jpg)
 
